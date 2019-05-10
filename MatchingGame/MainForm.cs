@@ -11,9 +11,9 @@ using System.IO;
 
 namespace MatchingGame
 
-    // Name: Daryl Johnson
-    // Date: 4/28/2019
-    // Class: Advanced C#
+    
+    
+    
     
 {
     public partial class Matching : Form
